@@ -1,6 +1,6 @@
 {
   "name": "@triptech/strapi-provider-upload-r2",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "Plugin to upload Strapi media files to Cloudflare R2",
   "main": "index.js",
   "scripts": {

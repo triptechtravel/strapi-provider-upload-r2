@@ -80,6 +80,12 @@ module.exports = ({ env }) => [
 ];
 ```
 
+## Test
+
+Using doppler, run: 
+
+`doppler run -- npm run blah`
+
 ## Appendix
 
 Allow public access to the Bucket:
