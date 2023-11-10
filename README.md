@@ -38,6 +38,7 @@ module.exports = ({ env }) => ({
         bucket: env("R2_BUCKET"),
         accountId: env("R2_ACCOUNT_ID"),
         publicUrl: env("R2_PUBLIC_URL"),
+        folder: env("R2_FOLDER"), // Optional sub-dir to default to
       },
     },
   },
